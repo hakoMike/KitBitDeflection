@@ -12,13 +12,16 @@ Kit cowboy (hurt)
 Kit cowboy (victory)
 possible: Kit aiming (one eye closed, tongue out) that would show up occassionally
 Kit gun arm with revolver
+muzzle flash (possibly game engine generated?)
 vertical bullet icon to indicate remaining ammo
 vertical bullet outline to indicate spent ammo
-Bit images (1,10,50) (animated gifs available to turn into sprite sheets)
+Bit images (1,10,50?) (animated gifs available to turn into sprite sheets)
+
 Rooster token (like a coin)
 Rombie token
 Grimm token
 Miffy token/?
+
 Crosshair for targetting
 Elevator doors (to start and end the game)
 HUD digits (like an old timey cash register?)
