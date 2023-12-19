@@ -9,6 +9,7 @@ Art assets:
 Kit cowboy (main)
 Kit cowboy (hurt)
 Kit cowboy (victory)
+possible: Kit aiming (one eye closed, tongue out) that would show up occassionally
 Kit gun arm with revolver
 vertical bullet icon to indicate remaining ammo
 vertical bullet outline to indicate spent ammo
@@ -16,16 +17,22 @@ Bit images (1,10,50) (animated gifs available to turn into sprite sheets)
 Rooster token (like a coin)
 Rombie token
 Grimm token
-Miffy token
+Miffy token/?
 Crosshair for targetting
 Elevator doors (to start and end the game)
 
 Sounds:
 gunshot (more than one?)
+reload sound 
 splat (hitting bits) (more than one?)
 Ting! or ricochet (for tokens)
-Kit reaction sounds (noooo! buh buh buh, etc) 
-possible: voice clip from Rombie, Grimm and Rooster saying something like "You let me down, Kit" or "Guess my time was up"
+Kit reaction sounds (noooo! buh buh buh, yay!, etc) 
+possible: voice clip from Rombie, Grimm and Rooster saying something like "You let me down, Kit" or "Guess my time was up, pardner"
+
+Music:
+generic royalty free cowboy music?
+elevator theme?
+different music for in-game vs game over?
 
 Concept:
 Kit shown on left of playfield with HUD
@@ -35,8 +42,9 @@ At intervals, a friend token starts to fall from the top. Shooting friend token 
 If any friend token hits the bottom, game is over.
 
 TBD:
-level start/end?
+level start/end? possible avoid collecting $x in 30 seconds, then next level adds friend token, then two
 end game conditions?
 Miffy mechanic
+  possible: shoot Miffy enough times and she clears the screen of bits in a fiery tantrum
 any meta jokes we can fit in
 
