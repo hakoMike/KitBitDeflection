@@ -1,10 +1,12 @@
 Basic design/required assets:
 
-Cowbot Kit avoids collecting Twitch bits while keeping her friends from hitting the ground
+Cowboy Kit avoids collecting Twitch bits while keeping her friends from hitting the ground
 
 Font:
 https://fontmeme.com/red-dead-redemption-font/
 some basic cowboy/old west font
+https://www.dafont.com/western-bang-bang.font
+
 
 Art assets:
 Kit cowboy (main)
@@ -25,14 +27,18 @@ Miffy token/?
 Crosshair for targetting
 Elevator doors (to start and end the game)
 HUD digits (like an old timey cash register?)
+https://www.homeroad.net/2023/03/diy-vintage-cash-register-flags.html
 
 Sounds:
 gunshot (more than one?)
 reload sound 
 splat (hitting bits) (more than one?)
-Ting! or ricochet (for tokens)
+Ting! or ricochet or sound like tin can getting hit by bullet (for tokens)
 Kit reaction sounds (noooo! buh buh buh, yay!, etc) 
 possible: voice clip from Rombie, Grimm and Rooster saying something like "You let me down, Kit" or "Guess my time was up, pardner"
+elevator sound for door open/close
+incidental sounds for button clicks, etc
+bit receive sound (like on stream) when bits get added to bank
 
 Music:
 generic royalty free cowboy music?
