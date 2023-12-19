@@ -1,1 +1,32 @@
+Use Cases/Finite States
 
+Entry:
+  Screen fades from black to closed elevator doors
+  Elevator door opens to title screen
+  title music starts
+  start game button goes to instructions
+
+Instructions:
+  TBD. maybe as in game tutorial prompts?
+
+In game: 
+  Overlay level messages
+  begin in-game items moving
+  While timer<level time and !lose
+    run coincidence check, update anims, etc
+    empty gun results in immediate reload
+    bits hitting bottom fly to bank
+    bits shot fly off in random direction and spin, decreasing alpha
+    friends shot fly upward and spin (how to do coin spin?)
+    friends hitting ground trigger lose
+
+Level complete:
+  Show message
+  clear stage items
+  next level
+
+Lose:
+  show message
+  indicate high score if achieved
+  prompt for continue
+  restart at entry
