@@ -45,6 +45,7 @@ If any friend token hits the bottom, game is over.
 
 TBD:
 level start/end? possible avoid collecting $x in 30 seconds, then next level adds friend token, then two
+Score: bits deflected - bits that made it to bottom? < 0 at end of level time = game over? 
 end game conditions?
 Miffy mechanic
   possible: shoot Miffy enough times and she clears the screen of bits in a fiery tantrum
