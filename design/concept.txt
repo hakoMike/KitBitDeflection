@@ -17,7 +17,7 @@ Kit gun arm with revolver
 muzzle flash (possibly game engine generated?)
 vertical bullet icon to indicate remaining ammo
 vertical bullet outline to indicate spent ammo
-Bit images (1,10,50?) (animated gifs available to turn into sprite sheets)
+DONE: Bit images (1,10,50?) (animated gifs available to turn into sprite sheets)
 
 Rooster token (like a coin)
 Rombie token
@@ -41,7 +41,7 @@ incidental sounds for button clicks, etc
 bit receive sound (like on stream) when bits get added to bank
 
 Music:
-generic royalty free cowboy music?
+DONE: generic royalty free cowboy music
 elevator theme?
 different music for in-game vs game over?
 
